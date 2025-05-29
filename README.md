@@ -11,7 +11,7 @@
 - 🎓 Estudio en la Universidad Tecnológica Nacional (UTN), Argentina.
 - 💼 Apuntando a crecer como **Desarrollador FULLSTACK** con Java(SpringBoot), y Js(React/Node.js).
 - 🧪 Interesado en IA, robótica aplicada, y proyectos educativos con impacto social.
-- 📚 Estudiando con el cursos autodidacta.
+- 📚 Estudiando con cursos autodidacta.
 - 🛠️ También tengo experiencia en frontend, APIs REST y bases de datos relacionales y no relacionales.
 - 🔗 Perfil profesional completo en [LinkedIn](https://www.linkedin.com/in/cesar-augusto-fernandez-carbonell/).
 
@@ -60,7 +60,7 @@
 ### 📫 Contacto
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/cesar-augusto-fernandez-carbonell/)
-- 📧 cesar.tuproyecto@gmail.com (o el que uses normalmente)
+- 📧 cesar.fernandez.carbonell@gmail.com 
 
 ---
 
