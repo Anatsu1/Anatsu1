@@ -51,8 +51,8 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CesarFernandezCarbonell&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarFernandezCarbonell&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anatsu1&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anatsu1&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -65,4 +65,4 @@
 ---
 
 ⭐ ¡Gracias por visitar mi perfil!  
-🧠 "La programación no se trata solo de código. Se trata de ideas, soluciones y personas."
+🧠 "La programación no se trata solo de código. Se trata de ideas, soluciones y magia."
