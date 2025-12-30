@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Sobre mí
 
-- 🎓 Estudio en la Universidad Tecnológica Nacional (UTN), Argentina.
+- 🎓 Técnico Universitario en Programación de la Universidad Tecnológica Nacional (UTN), Argentina.
 - 💼 Apuntando a crecer como **Desarrollador FULLSTACK** con Java(SpringBoot), y Js(React/Node.js).
 - 🧪 Interesado en IA, robótica aplicada, y proyectos educativos con impacto social.
 - 📚 Estudiando con cursos autodidacta.
