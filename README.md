@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Sobre mí
 
-- 🎓 Técnico Universitario en Programación de la Universidad Tecnológica Nacional (UTN), Argentina.
+- 🎓 Técnico Universitario en Programación graduado de la Universidad Tecnológica Nacional (UTN), Argentina.
 - 💼 Apuntando a crecer como **Desarrollador FULLSTACK** con Java(SpringBoot), y Js(React/Node.js).
 - 🧪 Interesado en IA, robótica aplicada, y proyectos educativos con impacto social.
 - 📚 Estudiando con cursos autodidacta.
@@ -51,8 +51,8 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anatsu1&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anatsu1&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anatsu1&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub de Anatsu1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anatsu1&layout=compact&theme=tokyonight" alt="Lenguajes más usados por Anatsu1" />
 </p>
 
 ---
