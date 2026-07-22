@@ -9,7 +9,7 @@
 ### 👨‍💻 Sobre mí
 
 - 🎓 Técnico Universitario en Programación graduado de la Universidad Tecnológica Nacional (UTN), Argentina.
-- 💼 Apuntando a crecer como **Desarrollador FULLSTACK** con Java(SpringBoot), y Js(React/Node.js).
+- 💼 Apuntando a crecer como **Desarrollador FULLSTACK** con y Js/Ts(React/Node.js).
 - 🧪 Interesado en IA, robótica aplicada, y proyectos educativos con impacto social.
 - 📚 Estudiando con cursos autodidacta.
 - 🛠️ Experiencia en frontend, APIs REST y bases de datos relacionales y no relacionales.
