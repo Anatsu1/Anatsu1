@@ -1,4 +1,5 @@
 <h1 align="center">¡Hola! 👋 Soy César Augusto Fernández Carbonell</h1>
+<h4 align="center">Desarrollador Fullstack + IA</h4>
 
 <p align="center">
   💻 Técnico Universitario en Programación | 🌐 Apasionado por el desarrollo web y backend | 🚀 En constante aprendizaje
@@ -8,7 +9,8 @@
 
 ### 👨‍💻 Sobre mí
 
-- 🎓 Técnico Universitario en Programación graduado de la Universidad Tecnológica Nacional (UTN), Argentina.
+- 🚀 Estudiando Licenciatura en Inteligencia Artificial en la Universidad Blas Pascal (UBP).
+- 🎓 Técnico Universitario en Programación graduado de la Universidad Tecnológica Nacional (UTN).
 - 💼 Apuntando a crecer como **Desarrollador FULLSTACK** con y Js/Ts(React/Node.js).
 - 🧪 Interesado en IA, robótica aplicada, y proyectos educativos con impacto social.
 - 📚 Estudiando con cursos autodidacta.
