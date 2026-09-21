@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.augustofc.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=620&lines=Construyo+aplicaciones+web+de+punta+a+punta;Y+las+pongo+en+producci%C3%B3n+en+mi+propio+servidor;Docker+%C2%B7+Traefik+%C2%B7+CI%2FCD+con+GitHub+Actions;Profesor+de+Programaci%C3%B3n+en+la+UTN;Estudiando+la+Licenciatura+en+IA" alt="Construyo aplicaciones web de punta a punta y las pongo en producción en mi propio servidor">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=620&lines=Construyo+aplicaciones+web+de+punta+a+punta;Del+c%C3%B3digo+al+servidor%2C+propio+o+del+cliente;Docker+%C2%B7+Traefik+%C2%B7+CI%2FCD+con+GitHub+Actions;Profesor+de+Programaci%C3%B3n+en+la+UTN;Estudiando+la+Licenciatura+en+IA" alt="Construyo aplicaciones web de punta a punta, del código al servidor, propio o del cliente">
   </a>
 </p>
 
@@ -16,8 +16,9 @@
 ## Hola, soy Cesar
 
 Desarrollador Full Stack y profesor de Programación en la UTN, en Necochea, Argentina.
-Construyo aplicaciones web de punta a punta y las pongo en producción en infraestructura
-que administro yo mismo.
+Construyo aplicaciones web de punta a punta y me ocupo de todo el camino hasta
+producción —servidor, deploy y mantenimiento—, en mi propia infraestructura y en la de
+mis clientes.
 
 **Estudio y trabajo a la vez:** curso el Ciclo de Licenciatura en Inteligencia Artificial
 en la Universidad Blas Pascal y llevo lo que aprendo a proyectos reales — integración de
