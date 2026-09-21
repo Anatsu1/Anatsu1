@@ -1,61 +1,63 @@
-<h1 align="center">¡Hola! 👋 Soy César Augusto Fernández Carbonell</h1>
-<h4 align="center">Desarrollador Fullstack + IA</h4>
+<!-- Encabezado animado: los colores son los del modo oscuro de augustofc.com -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:080B09,55:14532D,100:22C55E&text=Cesar%20Fernandez&fontColor=F0FDF4&fontSize=52&fontAlignY=36&desc=Full%20Stack%20Developer%20%2B%20IA&descAlignY=58&descSize=18&animation=fadeIn" alt="Cesar Fernandez — Full Stack Developer + IA">
 
 <p align="center">
-  💻 Técnico Universitario en Programación | 🌐 Apasionado por el desarrollo web y backend | 🚀 En constante aprendizaje
+  <a href="https://www.augustofc.com">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=620&lines=Construyo+aplicaciones+web+de+punta+a+punta;Y+las+pongo+en+producci%C3%B3n+en+mi+propio+servidor;Docker+%C2%B7+Traefik+%C2%B7+CI%2FCD+con+GitHub+Actions;Profesor+de+Programaci%C3%B3n+en+la+UTN;Estudiando+la+Licenciatura+en+IA" alt="Construyo aplicaciones web de punta a punta y las pongo en producción en mi propio servidor">
+  </a>
 </p>
 
----
+<p align="center">
+  <a href="https://www.augustofc.com"><img src="https://img.shields.io/badge/augustofc.com-080B09?style=for-the-badge&logo=googlechrome&logoColor=22C55E" alt="Sitio web"></a>
+  <a href="https://www.linkedin.com/in/cesar-augusto-fernandez-carbonell/"><img src="https://img.shields.io/badge/LinkedIn-080B09?style=for-the-badge&logo=linkedin&logoColor=22C55E" alt="LinkedIn"></a>
+  <a href="mailto:cesar.fernandez.carbonell@gmail.com"><img src="https://img.shields.io/badge/Email-080B09?style=for-the-badge&logo=gmail&logoColor=22C55E" alt="Email"></a>
+</p>
 
-### 👨‍💻 Sobre mí
+## Hola, soy Cesar
 
-- 🚀 Estudiando Licenciatura en Inteligencia Artificial en la Universidad Blas Pascal (UBP).
-- 🎓 Técnico Universitario en Programación graduado de la Universidad Tecnológica Nacional (UTN).
-- 💼 Apuntando a crecer como **Desarrollador FULLSTACK** con y Js/Ts(React/Node.js).
-- 🧪 Interesado en IA, robótica aplicada, y proyectos educativos con impacto social.
-- 📚 Estudiando con cursos autodidacta.
-- 🛠️ Experiencia en frontend, APIs REST y bases de datos relacionales y no relacionales.
-- 🔗 Perfil profesional completo en [LinkedIn](https://www.linkedin.com/in/cesar-augusto-fernandez-carbonell/).
+Desarrollador Full Stack y profesor de Programación en la UTN, en Necochea, Argentina.
+Construyo aplicaciones web de punta a punta y las pongo en producción en infraestructura
+que administro yo mismo.
 
----
+**Estudio y trabajo a la vez:** curso el Ciclo de Licenciatura en Inteligencia Artificial
+en la Universidad Blas Pascal y llevo lo que aprendo a proyectos reales — integración de
+LLMs con LangChain y la API de OpenAI, automatización con n8n y desarrollo asistido con
+agentes.
 
-### 🚀 Tecnologías y herramientas
+En la Tecnicatura Universitaria en Programación de la UTN doy Programación I (C),
+Programación II (Java), Programación IV (JavaScript, Node.js y React), Bases de Datos I
+y II, y Gestión del Desarrollo de Software. Enseñar me obliga a entender los fundamentos
+a un nivel que el trabajo diario no siempre exige.
 
-#### Lenguajes y frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## Stack
 
-#### Bases de datos
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="center">
+  <b>Frontend y backend</b><br><br>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,tailwind,vite,nodejs,express,java,spring,php,python&perline=12" alt="React, TypeScript, JavaScript, Next.js, Tailwind, Vite, Node.js, Express, Java, Spring Boot, PHP, Python">
+</p>
+<p align="center">
+  <b>Datos</b><br><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=12" alt="PostgreSQL, MySQL, MongoDB, Redis">
+</p>
+<p align="center">
+  <b>Infraestructura</b><br><br>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,ubuntu,nginx,cloudflare,git&perline=12" alt="Docker, GitHub Actions, Linux, Ubuntu, Nginx, Cloudflare, Git">
+</p>
+<p align="center">
+  <b>IA y automatización</b><br><br>
+  <img src="https://img.shields.io/badge/LangChain-080B09?style=for-the-badge&logo=langchain&logoColor=22C55E" alt="LangChain">
+  <img src="https://img.shields.io/badge/OpenAI_API-080B09?style=for-the-badge&logo=openai&logoColor=22C55E" alt="API de OpenAI">
+  <img src="https://img.shields.io/badge/n8n-080B09?style=for-the-badge&logo=n8n&logoColor=22C55E" alt="n8n">
+  <img src="https://img.shields.io/badge/Claude_Code-080B09?style=for-the-badge&logo=anthropic&logoColor=22C55E" alt="Claude Code">
+</p>
 
-#### Herramientas y otros
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+## Qué hay en producción
 
----
+| | Proyecto | Qué es |
+|---|---|---|
+| 🖥️ | **Mi propio servidor** | VPS en Oracle Cloud (ARM) con Docker y Traefik, certificados wildcard por DNS challenge de Cloudflare, PostgreSQL, Redis, n8n y Uptime Kuma. Deploy continuo con GitHub Actions. |
+| 🌐 | [**portafolio**](https://github.com/Anatsu1/portafolio) | [augustofc.com](https://www.augustofc.com) — React, TypeScript y GSAP. Se despliega solo en ese servidor con cada push a `main`. |
+| 🔧 | [**sistema-ferreteria**](https://github.com/Anatsu1/sistema-ferreteria) | Mostrador: gestión de una ferretería, para un cliente real. Stock, ventas, cuenta corriente e importación desde Excel de más de 3.000 productos. |
+| 🎓 | **UTN Extensión Áulica Necochea** | La plataforma de la carrera, hecha en equipo como trabajo final. React, Node.js y PostgreSQL. |
 
-### 📫 Contacto
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/cesar-augusto-fernandez-carbonell/)
-- 📧 cesar.fernandez.carbonell@gmail.com 
-
----
-
-⭐ ¡Gracias por visitar mi perfil!  
-🧠 "La programación no se trata solo de código. Se trata de ideas, soluciones y magia."
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:22C55E,45:14532D,100:080B09" alt="">
