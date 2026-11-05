@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.augustofc.com"><img src="https://img.shields.io/badge/augustofc.com-080B09?style=for-the-badge&logo=googlechrome&logoColor=22C55E" alt="Sitio web"></a>
   <a href="https://www.linkedin.com/in/cesar-augusto-fernandez-carbonell/"><img src="https://img.shields.io/badge/LinkedIn-080B09?style=for-the-badge&logo=linkedin&logoColor=22C55E" alt="LinkedIn"></a>
-  <a href="mailto:cesar.fernandez.carbonell@gmail.com"><img src="https://img.shields.io/badge/Email-080B09?style=for-the-badge&logo=gmail&logoColor=22C55E" alt="Email"></a>
+  <a href="mailto:augusto.fernandez.carbonell@gmail.com"><img src="https://img.shields.io/badge/Email-080B09?style=for-the-badge&logo=gmail&logoColor=22C55E" alt="Email"></a>
 </p>
 
 ## Hola, soy Cesar
@@ -26,8 +26,8 @@ LLMs con LangChain y la API de OpenAI, automatización con n8n y desarrollo asis
 agentes.
 
 En la Tecnicatura Universitaria en Programación de la UTN doy Programación I (C),
-Programación II (Java), Programación IV (JavaScript, Node.js y React), Bases de Datos I
-y II, y Gestión del Desarrollo de Software. Enseñar me obliga a entender los fundamentos
+Programación II (Java), Programación IV (JavaScript, Node.js y React) y Bases de Datos I
+y II. Enseñar me obliga a entender los fundamentos
 a un nivel que el trabajo diario no siempre exige.
 
 ## Stack
@@ -42,7 +42,7 @@ a un nivel que el trabajo diario no siempre exige.
 </p>
 <p align="center">
   <b>Infraestructura</b><br><br>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,ubuntu,nginx,cloudflare,git&perline=12" alt="Docker, GitHub Actions, Linux, Ubuntu, Nginx, Cloudflare, Git">
+  <img src="iconos/infraestructura.svg" alt="Docker, GitHub Actions, Linux, Ubuntu, Fedora, Nginx, Cloudflare, Git">
 </p>
 <p align="center">
   <b>IA y automatización</b><br><br>
